@@ -1,0 +1,669 @@
+.oak1 {
+  height: 50px;
+  position: relative;
+  right: 60px;
+  top: 1px
+}
+
+.collapse {
+  font-weight: 500;
+}
+
+.nav-item {
+  padding: 10px 15px;
+}
+
+.navbar-item {
+  color: #0354b2;
+}
+
+.oaknav {
+  border-radius: 40px;
+  height: 35px;
+  position: relative;
+  top: 10px;
+  background-color: #DFF6FF
+}
+.ty {
+  color: #0354b2;
+}
+a {
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.talk {
+  background-color: #0354b2;
+  position: relative;
+  top: 180px;
+  border-radius: 40px
+}
+
+.h11 {
+  color: #17a3e0;
+  position: relative;
+  top: 130px;
+  font-weight: bold;
+}
+
+.h22 {
+  color: #0354b2;
+  position: relative;
+  top: 160px;
+}
+
+.oakhero {
+  position: relative;
+  right: 50px;
+  top: 20px;
+  height: 400px
+}
+
+@media (max-width: 1028px) {
+  .oak1 {
+    position: relative;
+    left: 10px;
+    height: 35px
+  }
+}
+
+@media (max-width: 1028px) {
+  .h11 {
+    position: relative;
+    top: 20px
+  }
+}
+
+@media (max-width: 1028px) {
+  .h22 {
+    position: relative;
+    top: 45px;
+    font-size: 2.4rem
+  }
+}
+
+@media (max-width: 1028px) {
+  .oakhero {
+    position: relative;
+    top: -50px;
+    left: 1px;
+    height: 300px;
+  }
+}
+
+@media (max-width: 1028px) {
+  .row {
+    height: 700px
+  }
+}
+
+@media (max-width: 1028px) {
+  .talk {
+    position: relative;
+    top: 410px
+  }
+}
+
+.brands {
+  text-align: center;
+  height: 250px;
+  background-color: #F5F5F5;
+}
+
+.title {
+  height: 550px
+}
+
+.h33 {
+  position: relative;
+  top: 40px;
+  color: #0354b2;
+}
+
+.brandnav {
+  height: 40px;
+  margin: 20px;
+}
+
+.brand1 {
+  position: relative;
+  top: 100px
+}
+
+@media (max-width: 1028px) {
+  .brandnav {
+    height: 47px;
+    margin: 30px;
+    position: relative;
+    bottom: 65px
+  }
+}
+
+@media (max-width: 1028px) {
+  .title {
+    height: 700px
+  }
+}
+
+@media (max-width: 1028px) {
+  .brands {
+    height: 500px
+  }
+}
+
+.messaging {
+  height: 900px
+}
+
+.messaging4 {
+  position: relative;
+  top: 80px;
+  left: 20px
+}
+
+.p11 {
+  margin-left: 550px;
+  margin-top: -170px;
+  color: #0354b2;
+}
+
+.h44 {
+  margin-left: 550px;
+  color: #0354b2;
+  text-align: justify;
+}
+
+.p22 {
+  margin-left: 550px;
+}
+
+.a33 {
+  margin-left: 550px;
+  margin-top: -170px;
+  font-weight: lighter;
+}
+
+@media (max-width: 1028px) {
+  .p11 {
+    margin: 0;
+    position: relative;
+    top: 30px;
+    left: 10px
+  }
+}
+
+@media (max-width: 1028px) {
+  .h44 {
+    margin: 0;
+    position: relative;
+    top: 39px;
+    left: 10px
+  }
+}
+
+@media (max-width: 1028px) {
+  .p22 {
+    margin: 0;
+    position: relative;
+    top: 60px;
+    left: 10px
+  }
+}
+
+@media (max-width: 1028px) {
+  .a33 {
+    color: black;
+    margin: 0;
+    position: relative;
+    top: 80px;
+    left: 10px
+  }
+}
+
+@media (max-width: 1028px) {
+  .messaging4 {
+    position: relative;
+    left: 10px;
+    top: 25px;
+    height: 250px
+  }
+}
+
+.hubs {
+  position: relative;
+  left: 820px;
+  bottom: 250px
+}
+
+.pp {
+  margin-left: 50px;
+  margin-top: 270px;
+  color: #0354b2;
+}
+
+.hh {
+  margin-left: 50px;
+  color: #0354b2;
+  text-align: justify;
+}
+
+.ppp {
+  margin-left: 50px;
+}
+
+.aa {
+  margin-left: 50px;
+  margin-top: -170px;
+  font-weight: lighter;
+}
+
+@media (max-width: 1028px) {
+  .pp {
+    margin: 0;
+    position: relative;
+    top: 500px;
+    left: 10px;
+  }
+}
+
+@media (max-width: 1028px) {
+  .hh {
+    margin: 0;
+    position: relative;
+    top: 510px;
+    left: 10px
+  }
+}
+
+@media (max-width: 1028px) {
+  .ppp {
+    margin: 0;
+    position: relative;
+    top: 530px;
+    left: 10px
+  }
+}
+
+@media (max-width: 1028px) {
+  .aa {
+    color: black;
+    margin: 0;
+    position: relative;
+    top: 547px;
+    left: 10px
+  }
+}
+
+@media (max-width: 1028px) {
+  .hubs {
+    position: relative;
+    left: 10px;
+    top: 2px;
+    height: 400px
+  }
+}
+
+.messaging220 {
+  height: 1300px;
+  background-color: #EFFFFD;
+}
+
+.extranet2 {
+  position: relative;
+  bottom: 300px
+}
+
+.extranet1 {
+  position: relative;
+  bottom: 400px
+}
+
+@media (max-width: 1028px) {
+  .messaging220 {
+    height: 1660px
+  }
+}
+
+@media (max-width: 1028px) {
+  .down {
+    position: relative;
+    top: 200px;
+  }
+}
+
+@media (max-width: 1028px) {
+  .hubs {
+    height: 300px
+  }
+}
+
+@media (max-width: 1028px) {
+  .messaging {
+    height: 1090px
+  }
+}
+
+@media (max-width: 1028px) {
+  .reco2 {
+    position: relative;
+    top: 400px;
+    padding: 10px
+  }
+}
+
+@media (max-width: 1028px) {
+  .reco1 {
+    position: relative;
+    top: 40px;
+    padding: 10px
+  }
+}
+
+@media (max-width: 1028px) {
+  .hubs {
+    height: 400px
+  }
+}
+
+@media (max-width: 1028px) {
+  .down {
+    height: 350px;
+    margin-top: 230px
+  }
+}
+
+@media (max-width: 1028px) {
+  .laugh {
+    height: 300px;
+    margin-top: -90px
+  }
+}
+
+@media (max-width: 1028px) {
+  .extranet2 {
+    position: relative;
+    bottom: 170px
+  }
+}
+
+.see {
+  text-align: center;
+  color: #0354b2;
+}
+
+.just {
+  width: 500px;
+  position: relative;
+  left: 700px;
+  bottom: 400px;
+  color: #0354b2;
+}
+
+.pfg {
+  position: relative;
+  left: 50px;
+  bottom: 130px;
+  width: 1000px
+}
+
+.talkk {
+  background-color: #0354b2;
+  border-radius: 40px
+}
+
+.pa {
+  color: #0354b2;
+}
+
+.xev {
+  height: 60px
+}
+
+.xxev {
+  position: relative;
+  left: 30px
+}
+
+.sev1 {
+  position: relative;
+  left: 60px
+}
+
+.emp {
+  height: 200px
+}
+
+.remm {
+  height: 200px
+}
+
+.empp {
+  height: 200px
+}
+
+.emp1 {
+  position: relative;
+  top: 380px;
+  right: 100px
+}
+
+.remm1 {
+  position: relative;
+  top: 380px;
+  right: 100px
+}
+
+.empp1 {
+  position: relative;
+  left: 620px;
+  bottom: 35px
+}
+
+.cen {
+  text-align: center;
+  color: #0354b2;
+}
+
+@media (max-width: 1028px) {
+  .pfg {
+    width: 400px
+  }
+}
+
+@media (max-width: 1028px) {
+  .xxev {
+    position: relative;
+    left: 3px
+  }
+}
+
+@media (max-width: 1028px) {
+  .sev1 {
+    position: relative;
+    left: -1px
+  }
+}
+
+@media (max-width: 1028px) {
+  .emp1 {
+    position: relative;
+    top: -500px
+  }
+}
+
+@media (max-width: 1028px) {
+  .remm1 {
+    position: relative;
+    top: -500px
+  }
+}
+
+@media (max-width: 1028px) {
+  .empp1 {
+    position: relative;
+    left: 10px;
+    top: -510px
+  }
+}
+
+@media (max-width: 1028px) {
+  .image9 {
+    height: 330px
+  }
+}
+
+@media (max-width: 1028px) {
+  .see {
+    width: 400px
+  }
+}
+
+@media (max-width: 1028px) {
+  .just {
+    position: relative;
+    left: 20px;
+    top: 20px;
+    width: 400px
+  }
+}
+
+@media (max-width: 1028px) {
+  .rounded {
+    position: relative;
+    top: 200px
+  }
+}
+
+@media (max-width: 1028px) {
+  .r11 {
+    position: relative;
+    top: -300px
+  }
+}
+
+@media (max-width: 1028px) {
+  .cen {
+    position: relative;
+    top: 200px;
+  }
+}
+
+.row2 {
+  font-size: 12px;
+  color: #0354b2;
+}
+
+.ro1 {
+  position: relative;
+  right: 70px;
+  color: #0354b2;
+}
+
+.ro2 {
+  position: relative;
+  right: 140px;
+  color: #0354b2;
+}
+
+.ro3 {
+  position: relative;
+  right: 210px;
+  color: #0354b2;
+}
+
+.ro4 {
+  position: relative;
+  left: 460px;
+  bottom: 98px;
+  color: #0354b2;
+}
+
+a {
+  color: black;
+}
+
+.icon {
+  height: 200px
+}
+
+@media (max-width: 1028px) {
+  .div5 {
+    height: 1600px
+  }
+}
+
+.footer-clean .item.social>a {
+  font-size: 24px;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  display: inline-block;
+  text-align: center;
+  border-radius: 50%;
+  border: 1px solid #ccc;
+  margin-left: 10px;
+  margin-top: 22px;
+  color: inherit;
+  opacity: 0.75;
+  position: relative;left: 500px;bottom: 100px
+}
+@media (max-width: 1028px) {
+  .row2 {
+    position: relative;left: 10px;top: 1100px
+  }
+}
+.aj {
+  list-style-type: none;
+}
+@media (max-width: 1028px) {
+  .ro1 {
+    position: relative;left: 50px;bottom: 100px;
+    width: 50px
+  }
+}
+@media (max-width: 1028px) {
+  .ro2 {
+    position: relative;left: 1px;bottom: 115px
+  }
+}
+@media (max-width: 1028px) {
+  .ro3 {
+    position: relative;left: 50px;bottom: 235px;
+    width: 50px
+  }
+}
+@media (max-width: 1028px) {
+  .ro4 {
+    position: relative;left: 1px;bottom: 235px;
+  }
+}
+@media (max-width: 1028px) {
+  .footer-clean .item.social>a {
+    position: relative;left: 70px;bottom: 215px
+  }
+}
+.footoak {
+  height: 50px
+}
+.foo {
+  margin-top: 10px
+}
+@media (max-width: 1028px) {
+  .foo {
+    position: relative;left: 40px
+  }
+}
+@media (max-width: 1028px) {
+  .footoak {
+    position: relative;left: 120px
+  }
+}
+.cert1 {
+  height: 60px;
+  position: relative;left: 900px;bottom: 60px
+}
+@media (max-width: 1028px) {
+  .cert1 {
+    position: relative;left: 10px;bottom: 0
+  }
+}
